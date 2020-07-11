@@ -1,4 +1,4 @@
-### Hi there!! 👋 I am Anil Kushwaha, a Proffessional Web Developer
+### Hi there!! 👋 I am Anil Kushwaha
 
 - 🔭 I’m currently working on MERN Stack
 - 🌱 I’m currently learning Machine Learning
